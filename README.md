@@ -1,2 +1,3 @@
-Satellite Attitude Dynamics Simulation
+Satellite Attitude Dynamics Simulation Project
+**in progress**
 
