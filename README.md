@@ -1,2 +1,2 @@
-# JR_Portfolio
+Satellite Attitude Dynamics Simulation
 
